@@ -2,6 +2,7 @@
 title: Homebrew로 java 설치하기
 date: 2019-04-11
 category: 설치기
+comments: true
 ---
 
 mac에다가 java를 설치하려고 블로그를 검색하는데 죄다 oracle 사이트 가서 다운로드를 받으라고 한다.
