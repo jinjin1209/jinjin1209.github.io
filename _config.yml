@@ -293,3 +293,7 @@ defaults:
       comments: true
       share: true
       related: true
+
+header:
+  image: /assets/images/jonathan-andreo-249964-unsplash.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
