@@ -3,7 +3,7 @@ title: Homebrew로 java 설치하기
 date: 2019-04-11
 category: 설치기
 header:
-  image: /assets/images/jonathan-andreo-249964-unsplash.jpg
+  image: /assets/images/jesus-kiteque-224069-unsplash.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
